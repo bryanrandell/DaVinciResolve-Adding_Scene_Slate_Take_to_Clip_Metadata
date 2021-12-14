@@ -2,3 +2,5 @@
 
 # Description
 A small window for quickly changing the Scene and Take in Clip Metadata from the active Timeline clip in Editor or Color mode.
+
+![Screenshot](ui_screenshot.png)
