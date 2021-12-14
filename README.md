@@ -1,0 +1,1 @@
+# DaVinciResolve-Adding_Scene_Slate_Take_to_Clip_Metadata
